@@ -1,0 +1,1 @@
+include ':app', ':FriendsLink-ble-1.0', ':FriendsLink-octopus-1.0', ':FriendsLink-wifi-1.0'
